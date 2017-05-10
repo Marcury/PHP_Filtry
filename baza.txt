@@ -1,0 +1,11 @@
+Nazwisko1 Imie1 mail1@mail.com 60  TP C Java
+Nazwisko2 Imie2 mail2@mail.com 12  Java
+Nazwisko3 Imie3 mail3@mail.org 14  C
+nazwisko4 imie4 mail4@mail.com 16  TP Java
+nazwisko5 imie5 email5@email.pl 22  C Java
+nazwisko6 imie6 mail6@mail.pl 34  TP
+nazwisko7 imie7 mail7@mail.pl 35  C
+nazwisko8 imie8 mail8@email.org 42  Java
+nazwisko9 imie9 mail9@mail.pl 52  TP C Java
+Nazwisko10 imie10 mail10@mail.com 35  C
+nazwisko imie mail@mail.pl 20 C
