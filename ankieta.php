@@ -20,6 +20,8 @@
       $wyniki=file("ankieta.txt");
       $ileWyniki=count($wyniki);
       
+      
+      
      // $wyswietlenie[9];
       for($i=0;$i<9;$i++)
       {
